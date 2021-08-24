@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2735328 */
+  src: url('iconfont.woff2?t=1629180311333') format('woff2'),
+       url('iconfont.woff?t=1629180311333') format('woff'),
+       url('iconfont.ttf?t=1629180311333') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiaoyijilu:before {
+  content: "\e633";
+}
+
+.icon-cangku:before {
+  content: "\e7b9";
+}
+
+.icon-user:before {
+  content: "\e66e";
+}
+
+.icon-huowu:before {
+  content: "\e634";
+}
+
+.icon-shouzhimingxi:before {
+  content: "\e67a";
+}
+
+.icon-xinxi:before {
+  content: "\e60f";
+}
+
+.icon-Group-:before {
+  content: "\e6aa";
+}
+
+.icon-yunliankeji-:before {
+  content: "\e612";
+}
+
+.icon-fenbu:before {
+  content: "\e872";
+}
+
+.icon-jilu:before {
+  content: "\e62d";
+}
+
+.icon-guanliyuan:before {
+  content: "\e646";
+}
+
+.icon-lujingbeifen2:before {
+  content: "\e66f";
+}
+
+.icon-caiwu:before {
+  content: "\e640";
+}
+
+.icon-shangpin1:before {
+  content: "\e616";
+}
+
+.icon-shuju:before {
+  content: "\e88d";
+}
+
+.icon-4-06:before {
+  content: "\e696";
+}
+
+.icon-xiaoshou:before {
+  content: "\e62c";
+}
+
+.icon-jilu1:before {
+  content: "\e607";
+}
+
+.icon-shouzhicun:before {
+  content: "\e6d1";
+}
+
+.icon-ziyuan85:before {
+  content: "\e610";
+}
+
+.icon-kehuxinxi:before {
+  content: "\e61d";
+}
+

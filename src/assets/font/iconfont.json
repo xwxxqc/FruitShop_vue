@@ -1,0 +1,156 @@
+{
+  "id": "2735328",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "830927",
+      "name": "交易记录",
+      "font_class": "jiaoyijilu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1128772",
+      "name": "仓库",
+      "font_class": "cangku",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "1509752",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "2832504",
+      "name": "货物",
+      "font_class": "huowu",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "3216569",
+      "name": "收支明细",
+      "font_class": "shouzhimingxi",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "4331594",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4685775",
+      "name": "权限",
+      "font_class": "Group-",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "5799983",
+      "name": "数据",
+      "font_class": "yunliankeji-",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5838805",
+      "name": "分布",
+      "font_class": "fenbu",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "6334351",
+      "name": "记录",
+      "font_class": "jilu",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10717641",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "14225366",
+      "name": "客户",
+      "font_class": "lujingbeifen2",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "15023387",
+      "name": "财务",
+      "font_class": "caiwu",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "16605996",
+      "name": "商品",
+      "font_class": "shangpin1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "17782872",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "18000221",
+      "name": "信息",
+      "font_class": "4-06",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "18043167",
+      "name": "销售",
+      "font_class": "xiaoshou",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "18622528",
+      "name": "记录",
+      "font_class": "jilu1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18716116",
+      "name": "收支存",
+      "font_class": "shouzhicun",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "21036620",
+      "name": "前台售卖",
+      "font_class": "ziyuan85",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "23196387",
+      "name": "客户信息",
+      "font_class": "kehuxinxi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
